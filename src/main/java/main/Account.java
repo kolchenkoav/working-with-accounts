@@ -6,6 +6,7 @@ import java.util.UUID;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Account {
+
     private final UUID id;
     private final AtomicInteger money;
 
